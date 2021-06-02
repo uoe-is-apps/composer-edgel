@@ -1,0 +1,7 @@
+{
+  "name": "uoe/edgel",
+  "description": "A Bootstrap implementation of the University of Edinburgh Design System",
+  "require": {
+    "php": ">=7.4"
+  }
+}
